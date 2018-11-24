@@ -1,0 +1,230 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Cardo';
+    font-weight: 100;;
+    font-size: 20px;
+}
+
+.navigation {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.navbar-light {
+    background-color: rgba(255, 255, 255, 0.927);
+}
+
+.top-nav {
+    color: white;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+}
+
+p{  
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: rgba(137,137,137,1);
+}
+
+/*Home Page*/
+
+#logo {
+    width: 85%;
+    height: 85%;
+    margin-top: 25px;
+    margin-left: 7%;
+    padding-top:50px;
+    margin-bottom: 25px;
+}
+
+.display-4 {
+    color: rgba(255, 255, 255, 0.653);
+    margin-bottom: 7%;
+    text-align: center;
+}
+
+#welcome {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+img {
+    border-radius: 2%;
+}
+
+.col {
+    margin-bottom: 5%;
+}
+
+.jumbotron {
+    background-image: url(pics/jumbotron.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 15%;
+    padding-bottom: 30%;
+    font-family: 'Dancing Script', cursive;
+    border-radius: 0px;
+}
+
+#lilypic {
+    width: 100%;
+    height: 100%;
+}
+
+#bikepic {
+    width: 100%;
+    height: 100%;
+}
+
+#contact-button {
+    margin-left: 5%;
+    margin-top: 5%;
+    border: solid 5px;
+    border-width: 1px;
+    border-color: rgba(137,137,137,1); 
+    color: rgb(108, 107, 107);
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-size: 27px;
+    padding: 2%;
+}
+
+.fa-facebook-f {
+    color: rgba(1, 0, 0, 0.557);
+}
+
+
+.contact-form-container {
+    padding-top: 1%;
+    margin-bottom: 25px;
+}
+.fa-instagram{
+    color: rgba(1, 0, 0, 0.557);
+}
+
+.footer {
+    background-color: rgba(255, 232, 236, 0.577);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: rgba(137,137,137,1);
+}
+
+/*About Page*/
+.about-social {
+    font-size: 50px;
+}
+
+#katie {
+    width: 100%;
+    height: 100%;
+}
+
+#storefront {
+    width: 100%;
+    height: 100%;
+}
+
+#about-us{
+    padding-top: 7%;
+    margin-bottom: 50px;
+}
+
+#about-us-text {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/*Holidays & Occasions*/
+
+.occasions {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.holidays {
+    padding-top: 55px;
+}
+
+#weddingpic {
+    width: 100%;
+    height: 100%;
+}
+
+#funeralpic {
+    width: 100%;
+    height: 100%;
+}
+
+/*Contact Page*/
+
+#contact-page-logo {
+    width: 75%;
+    height: 75%;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+.form-group {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: rgba(137,137,137,1);
+}
+
+.btn {
+    border: solid 5px;
+    border-width: 1px;
+    border-color: rgba(137,137,137,1); 
+    color: rgba(137,137,137,1);
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    padding: 2%;
+}
+
+.gallery {
+    padding-top: 50px;
+}
+
+.galleryPics {
+    width: 85%;
+    height: 85%;
+    background-position: center;
+    border-radius: 1px;
+}
+
+.please-contact-us {
+    color: rgb(213, 134, 147);
+}
+
+.please-contact-us:hover {
+    color: rgb(198, 114, 128);
+    text-decoration: none;
+}
+
+.otherHolidays {
+    width: 75%;
+    height: 75%;
+}
+
+#createdBy {
+    color: rgba(137,137,137,1);
+    text-decoration: underline;
+}
+
+#delivery {
+    padding-top: 50px;
+}
+
